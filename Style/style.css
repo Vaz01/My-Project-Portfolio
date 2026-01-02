@@ -520,6 +520,7 @@ p {
     color: #94a3b8;
 }
 
+
 .tecnologias {
     max-width: 1200px;
     margin: 0 auto;
@@ -596,4 +597,12 @@ p {
 .contact-info span {
     font-size: 14px;
     color: #94a3b8;
+}
+
+@media (max-width:450px){
+    p{
+        width: 100%;
+        padding: 16px;
+        font-size: 17px;
+    }
 }
