@@ -606,3 +606,9 @@ p {
         font-size: 17px;
     }
 }
+
+@media(max-width:450px){
+    .skill-card{
+        box-shadow: #20e3b2 0px 0px 6px;
+    }
+}
